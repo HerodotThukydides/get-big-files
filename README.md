@@ -10,7 +10,8 @@ Gives out a list of the biggest files in a directory (including sub-directories)
 ## How to use?
 1. copy & paste a path into app.js (mind the escape characters
 2. specify the length of your list
-3. run app.js ( filling the list and results are displayed in logs)
+3. run "npm install" 
+4. run app.js ( filling the list and results are displayed in logs)
 
 ## TODOs
 - .getFilesBySize should be async ( first fill up the list, then return the finished list)
