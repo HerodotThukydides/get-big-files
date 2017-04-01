@@ -3,6 +3,7 @@ Gives out a list of the biggest files in a directory (including sub-directories)
 
 ## What it is...
 - written in node.js
+- uses node-walkdir ( https://github.com/soldair/node-walkdir )
 - searches directories for the biggest files and returns them in a list
 - a fun small project to get familiar with node
 - fills in my perosnal need to identifiy the biggest files inside my Google Drive ( I am sure there are 1000 other ways as well )
