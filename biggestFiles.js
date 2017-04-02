@@ -47,7 +47,7 @@ module.exports.getFilesBySize =  (directory, listLength) => {
     }
 
     //  console.log("Size: ", fileSize, " found: ", path);
-    console.log("\n\nThis here are the top ", listLength, " files by size:\n",topList);
+    console.log("\n\nThese here are the top ", listLength, " files by size:\n",topList);
 
   });
 };
