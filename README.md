@@ -15,8 +15,6 @@ Gives out a list of the biggest files in a directory (including sub-directories)
 4. run app.js ( filling the list and results are displayed in logs)
 
 ## TODOs
-- .getFilesBySize should be async ( first fill up the list, then return the finished list)
-- instead of searching for folders and files, it should be only files
-- include error handling (e.g. notification for invalid file-path)
-- (optional) write the list into a file
+- optimization: instead of searching for folders and files, it should be only files
+- (maybe) write the list into a file
 - (maybe) make it possible to just copy & paste a windows path into it, instead of filling up with escape characterts
